@@ -1,4 +1,10 @@
-Hi, I’m Mateusz Cedro, on mu GitHub you can find my project on:
+# Mateusz Cedro - ABOUT ME
+I'm a data scientist/machine learning engineer who delivers Machine Learning
+& Artificial Intelligence solutions for data-driven
+projects in business and research. Especially
+interested in explaining complex ML/AI models and
+data visualisation.
+
 
 - [Advanced Visualisation](https://github.com/mateuszcedro/mateuszcedro/blob/main/Visualisation/Advanced%20Visualisation.md)
 - Machine Learning & Deep Learning:
