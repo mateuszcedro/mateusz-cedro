@@ -1,11 +1,12 @@
-# Mateusz Cedro - ABOUT ME
+# Mateusz Cedro
+## About Me
 I'm a data scientist/machine learning engineer who delivers Machine Learning
 & Artificial Intelligence solutions for data-driven
 projects in business and research. Especially
 interested in explaining complex ML/AI models and
 data visualisation.
 
-
+## My projects
 - [Advanced Visualisation](https://github.com/mateuszcedro/mateuszcedro/blob/main/Visualisation/Advanced%20Visualisation.md)
 - Machine Learning & Deep Learning:
     - [Classification](https://htmlpreview.github.io/?https://github.com/mateuszcedro/mateuszcedro/blob/main/Machine%20Learning%20%26%20Deep%20Learning/Classification.html)
