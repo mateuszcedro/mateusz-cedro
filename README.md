@@ -4,7 +4,7 @@ Hi, I’m Mateusz Cedro, on mu GitHub you can find my project on:
 - Machine Learning & Deep Learning:
     - [Classification](https://htmlpreview.github.io/?https://github.com/mateuszcedro/mateuszcedro/blob/main/Machine%20Learning%20%26%20Deep%20Learning/Classification.html)
     - [Regression](https://github.com/mateuszcedro/mateuszcedro/blob/main/Machine%20Learning%20%26%20Deep%20Learning/Regression.pdf)
-- [Econometrics](https://github.com/mateuszcedro/mateuszcedro/blob/main/Econometrics.ipynb)
+- [Econometrics](https://github.com/mateuszcedro/mateuszcedro/blob/main/Econometrics/Econometrics.ipynb)
 - Text Mining Project:
     - [Clustering & Topic Modeling](https://htmlpreview.github.io/?https://github.com/mateuszcedro/mateuszcedro/blob/main/Text%20mining/Clustering%20%26%20Topic%20Modeling.html)
     - [Sentiment Analysis & Topic Modeling](https://htmlpreview.github.io/?https://github.com/mateuszcedro/mateuszcedro/blob/main/Text%20mining/Sentiment%20Analysis%20%26%20Topic%20Modeling.html)
