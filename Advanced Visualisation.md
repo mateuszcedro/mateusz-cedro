@@ -1,4 +1,5 @@
-# Visualisation Project
+# Advanced Visualisation Project
+Karolina Szczęsna & Mateusz Cedro
 
 ####  S1
 ![Mock Slide](https://github.com/mateuszcedro/mateuszcedro/blob/main/visualisation/s2.png)
