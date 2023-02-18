@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @mateuszcedro
+Hi, I’m @mateuszcedro, on mu GitHub you can find:
+
 - Visualisation Project
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 mateuszcedro/mateuszcedro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
