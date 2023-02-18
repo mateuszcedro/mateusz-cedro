@@ -1,4 +1,4 @@
-Hi, I’m @mateuszcedro, on mu GitHub you can find:
+Hi, I’m Mateusz Cedro, on mu GitHub you can find:
 
 - Visualisation Project
 
