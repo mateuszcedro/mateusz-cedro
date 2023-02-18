@@ -1,6 +1,9 @@
-Hi, I’m Mateusz Cedro, on mu GitHub you can find:
+Hi, I’m Mateusz Cedro, on mu GitHub you can find my project on:
 
-- Visualisation Project
+- [Advanced Visualisation](https://github.com/mateuszcedro/mateuszcedro/blob/main/Advanced%20Visualisation.md)
+- [Machine Learning & Deep Learning Regression and Classification](https://github.com/mateuszcedro/mateuszcedro/blob/main/Machine%20Learning%20%26%20Deep%20Learning%20-%20Regression.pdf)
+- [Econometrics](https://github.com/mateuszcedro/mateuszcedro/blob/main/Econometrics.ipynb)
+- Text Mining Project
 
 
 <!---
