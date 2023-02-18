@@ -1,6 +1,6 @@
 Hi, I’m Mateusz Cedro, on mu GitHub you can find my project on:
 
-- [Advanced Visualisation](https://github.com/mateuszcedro/mateuszcedro/blob/main/Advanced%20Visualisation.md)
+- [Advanced Visualisation](https://github.com/mateuszcedro/mateuszcedro/blob/main/visualisation/Advanced%20Visualisation.md)
 - Machine Learning & Deep Learning:
     - [Classification](https://htmlpreview.github.io/?https://github.com/mateuszcedro/mateuszcedro/blob/main/Machine%20Learning%20%26%20Deep%20Learning/Classification.html)
     - [Regression](https://github.com/mateuszcedro/mateuszcedro/blob/main/Machine%20Learning%20%26%20Deep%20Learning/Regression.pdf)
