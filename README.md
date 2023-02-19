@@ -4,6 +4,7 @@ I'm a data scientist/machine learning engineer who delivers Machine Learning & A
 I'm sspecially interested in explainable artificial intelligence (XAI) that enables explaining complex ML/AI models. Alongside with XAI, I specialise in data visualisation.
 
 ## My CV
+Here you can find my [CV](https://github.com/mateuszcedro/mateuszcedro/blob/main/CV/Mateusz%20Cedro%20CV.pdf)
 
 
 ## My projects
