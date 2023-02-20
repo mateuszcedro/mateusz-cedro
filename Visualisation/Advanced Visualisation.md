@@ -5,7 +5,7 @@ Karolina Szczęsna & Mateusz Cedro
 The main purpose of this analysis is to display the main characteristics of the organization, find the most significant determinants of a salary, as well as gain information about the most successful employees.
 
 ## Dataset description
-The original dataset from [Kaggle](https://www.kaggle.com/datasets/rhuebner/human-resources-data-set) contained 311 observations of employees from a certain organization and 36 variables. We conducted data transformations and feature engineering, and our final dataset consisted of 294 observations and 47 variables.
+The original dataset from [Kaggle](https://www.kaggle.com/datasets/rhuebner/human-resources-data-set) contained 311 observations of employees from a certain organization described with 36 variables. We conducted data transformations and feature engineering, and our final dataset consisted of 294 observations and 47 variables.
 
 ## Data visualisation
 
