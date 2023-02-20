@@ -58,7 +58,7 @@ The third scatter plot shows the dependence between number of years worked on th
 
 ### 9. How did the number of employees change over the years?
 
-![Mock Slide](https://github.com/mateuszcedro/mateuszcedro/blob/main/Visualisation/Plots/gganim_yearOfHire.gif.png)
+![Mock Slide](https://github.com/mateuszcedro/mateuszcedro/blob/main/Visualisation/Plots/gganim_yearOfHire.gif)
 
 The animation presents the aggragated line plots of the number of employments in each department over the years 2006 - 2018. The plot shows that in 2010 there was a huge rise in emplyments in Production, which can indicate a strong focus on expansion of the organization and product development. However, this trend started to decrease later giving focus over to Sales and IT departments. The number of employments in Engineering did not vary much per year.
 
