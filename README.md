@@ -3,6 +3,9 @@
 I'm a data scientist/machine learning engineer who delivers Machine Learning & Artificial Intelligence solutions for data-driven projects in business and research.
 I'm sspecially interested in Explainable Artificial Intelligence (XAI) that enables explaining complex ML/AI models. Alongside with XAI, I specialise in data visualisation.
 
+Currently I'm working on XAI explanations on CNN COmputer Vision Deepl Learning classification model detecting COVID-19 disease on lung X-ray images. Below you find the sample images explaining the pixel importance.
+
+
 ## My CV
 Here you can find detailed my [CV](https://github.com/mateuszcedro/mateuszcedro/blob/main/CV/Mateusz%20Cedro%20CV.pdf).
 
