@@ -4,6 +4,7 @@ I'm a data scientist/machine learning engineer who delivers Machine Learning & A
 I'm sspecially interested in Explainable Artificial Intelligence (XAI) that enables explaining complex ML/AI models. Alongside with XAI, I specialise in data visualisation.
 
 Currently I'm working on XAI explanations on CNN COmputer Vision Deepl Learning classification model detecting COVID-19 disease on lung X-ray images. Below you find the sample images explaining the pixel importance.
+
 ![covid_lungs](https://github.com/mateuszcedro/mateuszcedro/blob/main/Explainable%20Artificial%20Intelligence/covid_lungs_XAI.png)
 
 
