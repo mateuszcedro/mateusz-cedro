@@ -10,10 +10,6 @@ Currently I'm working on XAI explanations on CNN Computer Vision Deepl Learning 
 ![pentagon](https://github.com/mateuszcedro/mateuszcedro/blob/main/Explainable%20Artificial%20Intelligence/Pentagon.png)
 
 
-## My CV
-Here you can find detailed my [CV](https://github.com/mateuszcedro/mateuszcedro/blob/main/CV/Mateusz%20Cedro%20CV.pdf).
-
-
 ## My projects
 - [Explainable Artificial Intelligence (XAI)](https://github.com/mateuszcedro/mateuszcedro/blob/main/Explainable%20Artificial%20Intelligence/XAI.pdf)
 - [Advanced Visualisation](https://github.com/mateuszcedro/mateuszcedro/blob/main/Visualisation/Advanced%20Visualisation.md)
