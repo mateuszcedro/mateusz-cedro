@@ -5,7 +5,7 @@ I'm sspecially interested in Explainable Artificial Intelligence (XAI) that enab
 
 Currently I'm working on XAI explanations on CNN Computer Vision Deep Learning classification model detecting COVID-19 disease on lung X-ray images. Below you can find the sample images explaining the pixel importance.
 
-![covid_lungs](https://github.com/mateuszcedro/mateuszcedro/blob/main/Explainable%20AI/Grads.png)
+![covid_lungs](https://github.com/mateuszcedro/mateuszcedro/blob/main/Explainable%20AI/Grads.png | width=10)
 
 
 ## My projects
