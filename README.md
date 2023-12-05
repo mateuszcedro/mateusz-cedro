@@ -5,18 +5,20 @@ I'm sspecially interested in Explainable Artificial Intelligence (XAI) that enab
 
 Currently I'm working on XAI explanations on CNN Computer Vision Deep Learning classification model detecting COVID-19 disease on lung X-ray images. Below you can find the sample images explaining the pixel importance.
 
-![covid_lungs](https://github.com/mateuszcedro/mateuszcedro/blob/main/Explainable%20AI/Grads.png =250x250)
-<img src="[https://github.com/favicon.ico](https://github.com/mateuszcedro/mateuszcedro/blob/main/Explainable%20AI/Grads.png)" width="48">
+![covid_lungs](https://github.com/mateuszcedro/mateuszcedro/blob/main/Explainable%20AI/Grads.png)
 
 
 ## My projects
 - [Explainable AI - Explanation of XGBoost & SVM models of Brain Stroke disease prediction](https://htmlpreview.github.io/?https://raw.githubusercontent.com/mateuszcedro/mateuszcedro/main/Explainable%20AI/XAI_Shap_BrainStroke_html.html)
+
 ![XAI_BrainStroke4](https://github.com/mateuszcedro/mateuszcedro/blob/main/Explainable%20AI/xai_4.png)
 ![XAI_BrainStroke1](https://github.com/mateuszcedro/mateuszcedro/blob/main/Explainable%20AI/xai_1.png)
 ![XAI_BrainStroke2](https://github.com/mateuszcedro/mateuszcedro/blob/main/Explainable%20AI/xai_2.png)
+
 - [Advanced Visualisation](https://github.com/mateuszcedro/mateuszcedro/blob/main/Visualisation/Advanced%20Visualisation.md)
 ![Adv_Viz1](https://github.com/mateuszcedro/mateuszcedro/blob/main/Visualisation/Plots/s10.png)
 ![Adv_Viz2](https://github.com/mateuszcedro/mateuszcedro/blob/main/Visualisation/Plots/s3.png)
+
 - Machine Learning & Deep Learning:
     - [Classification](https://htmlpreview.github.io/?https://github.com/mateuszcedro/mateuszcedro/blob/main/Machine%20Learning%20%26%20Deep%20Learning/Classification.html)
     - [Regression](https://github.com/mateuszcedro/mateuszcedro/blob/main/Machine%20Learning%20%26%20Deep%20Learning/Regression.pdf)
