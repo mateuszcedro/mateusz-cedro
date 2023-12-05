@@ -7,8 +7,6 @@ Currently I'm working on XAI explanations on CNN Computer Vision Deep Learning c
 
 ![covid_lungs](https://github.com/mateuszcedro/mateuszcedro/blob/main/Explainable%20Artificial%20Intelligence/Grads.png)
 
-![pentagon](https://github.com/mateuszcedro/mateuszcedro/blob/main/Explainable%20Artificial%20Intelligence/Pentagon.png)
-
 
 ## My projects
 - [Explainable Artificial Intelligence (XAI)](https://github.com/mateuszcedro/mateuszcedro/blob/main/Explainable%20Artificial%20Intelligence/XAI.pdf)
