@@ -1,6 +1,6 @@
 # Mateusz Cedro
 ## About Me
-Data scientist who delivers Machine Learning & AI solutions for data-driven projects in business and research. Effective in engaging with stakeholders and customers. Especially interested in explaining complex ML/AI models, data inference and visualisation. Passion for working with people. Check out my recent projects at GitHub.
+Data scientist who delivers Machine Learning & AI solutions for data-driven projects in business and research. Effective in engaging with stakeholders and customers. Especially interested in explaining complex ML/AI models, data inference and visualisation. Passion for working with people.
 
 Currently working on XAI explanations on CNN Computer Vision Deep Learning classification model detecting COVID-19 disease on lung X-ray images. Below you can find the sample images explaining the pixel importance.
 
