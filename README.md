@@ -1,7 +1,6 @@
 # Mateusz Cedro
 ## About Me
-I'm a data scientist/machine learning engineer who delivers Machine Learning & Artificial Intelligence solutions for data-driven projects in business and research.
-I'm sspecially interested in Explainable Artificial Intelligence (XAI) that enables explaining complex ML/AI models. Alongside with XAI, I specialise in data visualisation.
+Data scientist who delivers Machine Learning & AI solutions for data-driven projects in business and research. Effective in engaging with stakeholders and customers. Especially interested in explaining complex ML/AI models, data inference and visualisation. Passion for working with people. Check out my recent projects at GitHub.
 
 Currently I'm working on XAI explanations on CNN Computer Vision Deep Learning classification model detecting COVID-19 disease on lung X-ray images. Below you can find the sample images explaining the pixel importance.
 
@@ -9,6 +8,7 @@ Currently I'm working on XAI explanations on CNN Computer Vision Deep Learning c
 
 
 ## My projects
+
 - [Explainable AI - Explanation of XGBoost & SVM models of Brain Stroke disease prediction](https://htmlpreview.github.io/?https://raw.githubusercontent.com/mateuszcedro/mateuszcedro/main/Explainable%20AI/XAI_Shap_BrainStroke_html.html)
 
 ![XAI_BrainStroke4](https://github.com/mateuszcedro/mateuszcedro/blob/main/Explainable%20AI/xai_4.png)
@@ -16,6 +16,7 @@ Currently I'm working on XAI explanations on CNN Computer Vision Deep Learning c
 ![XAI_BrainStroke2](https://github.com/mateuszcedro/mateuszcedro/blob/main/Explainable%20AI/xai_2.png)
 
 - [Advanced Visualisation](https://github.com/mateuszcedro/mateuszcedro/blob/main/Visualisation/Advanced%20Visualisation.md)
+
 ![Adv_Viz1](https://github.com/mateuszcedro/mateuszcedro/blob/main/Visualisation/Plots/s10.png)
 ![Adv_Viz2](https://github.com/mateuszcedro/mateuszcedro/blob/main/Visualisation/Plots/s3.png)
 
