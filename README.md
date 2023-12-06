@@ -25,7 +25,7 @@ Currently working on XAI explanations on CNN Computer Vision Deep Learning class
     - [Regression](https://github.com/mateuszcedro/mateuszcedro/blob/main/Machine%20Learning%20%26%20Deep%20Learning/Regression.pdf)
 
 - Machine Learning:
-    - [Linear Regression from Scratch with PyTorch](https://github.com/mateuszcedro/mateuszcedro/blob/main/PyTorch%20models/Machine%20Learning%20models/Linear%20Regression%20from%20Scratch%20in%20PyTorch.ipynb)
+    - [Linear Regression from Scratch with PyTorch](https://github.com/mateuszcedro/mateuszcedro/blob/main/PyTorch%20models/Machine%20Learning%20models/Linear%20Regression%20Model%20from%20Scratch%20with%20PyTorch.ipynb)
 
 - [Econometrics](https://github.com/mateuszcedro/mateuszcedro/blob/main/Econometrics/Econometrics.ipynb)
 
