@@ -21,11 +21,12 @@ Currently working on XAI explanations on CNN Computer Vision Deep Learning class
 ![Adv_Viz2](https://github.com/mateuszcedro/mateuszcedro/blob/main/Visualisation/Plots/s3.png)
 
 - Deep Learning:
-    - [Classification](https://htmlpreview.github.io/?https://github.com/mateuszcedro/mateuszcedro/blob/main/Machine%20Learning%20%26%20Deep%20Learning/Classification.html)
-    - [Regression](https://github.com/mateuszcedro/mateuszcedro/blob/main/Machine%20Learning%20%26%20Deep%20Learning/Regression.pdf)
+    - [Computer Vision DL model with XAI explanations with PyTorch](https://github.com/mateuszcedro/mateuszcedro/blob/main/PyTorch%20models/Deep%20Learning%20models/XAI-ResNet50-notebook.ipynb)
 
 - Machine Learning:
     - [Linear Regression from Scratch with PyTorch](https://github.com/mateuszcedro/mateuszcedro/blob/main/PyTorch%20models/Machine%20Learning%20models/Linear%20Regression%20Model%20from%20Scratch%20with%20PyTorch.ipynb)
+    - [Classification](https://htmlpreview.github.io/?https://github.com/mateuszcedro/mateuszcedro/blob/main/Machine%20Learning%20%26%20Deep%20Learning/Classification.html)
+    - [Regression](https://github.com/mateuszcedro/mateuszcedro/blob/main/Machine%20Learning%20%26%20Deep%20Learning/Regression.pdf)
 
 - [Econometrics](https://github.com/mateuszcedro/mateuszcedro/blob/main/Econometrics/Econometrics.ipynb)
 
