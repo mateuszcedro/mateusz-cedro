@@ -9,7 +9,7 @@ Currently working on XAI explanations on CNN Computer Vision Deep Learning class
 
 ## My projects
 
-- [Explainable AI - Explanation of XGBoost & SVM models of Brain Stroke disease prediction](https://htmlpreview.github.io/?https://raw.githubusercontent.com/mateuszcedro/mateuszcedro/main/Explainable%20AI/XAI_Shap_BrainStroke_html.html)
+- [Explainable AI - Explanation of XGBoost & SVM models of Brain Stroke disease prediction](https://github.com/mateuszcedro/mateuszcedro/blob/main/Explainable%20AI/XAI_Shap_BrainStroke_notebook.ipynb)
 
 ![XAI_BrainStroke4](https://github.com/mateuszcedro/mateuszcedro/blob/main/Explainable%20AI/xai_4.png)
 ![XAI_BrainStroke1](https://github.com/mateuszcedro/mateuszcedro/blob/main/Explainable%20AI/xai_1.png)
