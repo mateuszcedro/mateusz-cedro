@@ -21,7 +21,7 @@ Currently working on XAI explanations on CNN Computer Vision Deep Learning class
 ![Adv_Viz2](https://github.com/mateuszcedro/mateuszcedro/blob/main/Visualisation/Plots/s3.png)
 
 - Deep Learning:
-    - [Computer Vision DL model with XAI explanations with PyTorch](https://github.com/mateuszcedro/mateuszcedro/blob/main/PyTorch%20models/Deep%20Learning%20models/XAI-ResNet50-notebook.ipynb)
+    - [Computer Vision Classification model and XAI explanations with PyTorch](https://github.com/mateuszcedro/mateuszcedro/blob/main/PyTorch%20models/Deep%20Learning%20models/XAI-ResNet50-notebook.ipynb)
 
 - Machine Learning:
     - [Linear Regression from Scratch with PyTorch](https://github.com/mateuszcedro/mateuszcedro/blob/main/PyTorch%20models/Machine%20Learning%20models/Linear%20Regression%20Model%20from%20Scratch%20with%20PyTorch.ipynb)
