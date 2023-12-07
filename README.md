@@ -2,7 +2,7 @@
 ## About Me
 Data scientist who delivers Machine Learning & AI solutions for data-driven projects in business and research. Effective in engaging with stakeholders and customers. Especially interested in explaining complex ML/AI models, data inference and visualisation. Passion for working with people.
 
-Currently working on XAI explanations on CNN Computer Vision Deep Learning classification model detecting COVID-19 disease on lung X-ray images. Below you can find the sample images explaining the pixel importance. Here you can find the [notebook with code](https://github.com/mateuszcedro/mateuszcedro/blob/main/PyTorch%20models/Deep%20Learning%20models/XAI-ResNet50-notebook.ipynb).
+Currently working on XAI explanations of CNN Computer Vision Deep Learning classification model detecting COVID-19 disease on lung X-ray images. Below you can find the sample images explaining the pixel importance. Here you can find the [notebook with code](https://github.com/mateuszcedro/mateuszcedro/blob/main/PyTorch%20models/Deep%20Learning%20models/XAI-ResNet50-notebook.ipynb).
 
 ![covid_lungs](https://github.com/mateuszcedro/mateuszcedro/blob/main/Explainable%20AI/Grads.png)
 
