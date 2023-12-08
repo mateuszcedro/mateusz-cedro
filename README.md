@@ -20,6 +20,10 @@ Currently working on XAI explanations of CNN Computer Vision Deep Learning class
 
 - Machine Learning:
     - [Multiclass Neural Network Classification Model from Scratch with PyTorch](https://github.com/mateuszcedro/mateuszcedro/blob/main/Machine%20Learning%20PyTorch/Neural%20Network%20Multiclass%20Classification%20Model%20from%20Scratch%20with%20PyTorch.ipynb)
+
+  ![multiclass1](https://github.com/mateuszcedro/mateuszcedro/blob/main/Machine%20Learning%20PyTorch/imgs/Multiclass_1.png)
+  ![multiclass2](https://github.com/mateuszcedro/mateuszcedro/blob/main/Machine%20Learning%20PyTorch/imgs/Multiclass_2.png)
+  
     - [Binary Neural Network Classification Model from Scratch with PyTorch](https://github.com/mateuszcedro/mateuszcedro/blob/main/Machine%20Learning%20PyTorch/Neural%20Network%20Binary%20Classification%20Model%20from%20Scratch%20with%20PyTorch.ipynb)
     - [Linear Regression Model from Scratch with PyTorch](https://github.com/mateuszcedro/mateuszcedro/blob/main/Machine%20Learning%20PyTorch/Linear%20Regression%20Model%20from%20Scratch%20with%20PyTorch.ipynb)
 
