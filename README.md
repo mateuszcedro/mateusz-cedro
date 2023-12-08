@@ -15,18 +15,18 @@ Currently working on XAI explanations of CNN Computer Vision Deep Learning class
 ![XAI_BrainStroke1](https://github.com/mateuszcedro/mateuszcedro/blob/main/Explainable%20AI/xai_1.png)
 ![XAI_BrainStroke2](https://github.com/mateuszcedro/mateuszcedro/blob/main/Explainable%20AI/xai_2.png)
 
-- [Advanced Visualisation](https://github.com/mateuszcedro/mateuszcedro/blob/main/Visualisation/Advanced%20Visualisation.md)
-
-![Adv_Viz1](https://github.com/mateuszcedro/mateuszcedro/blob/main/Visualisation/Plots/s10.png)
-![Adv_Viz2](https://github.com/mateuszcedro/mateuszcedro/blob/main/Visualisation/Plots/s3.png)
-
 - Deep Learning:
     - [Computer Vision Classification Model and XAI Explanations with PyTorch](https://github.com/mateuszcedro/mateuszcedro/blob/main/Deep%20Learning%20PyTorch/XAI-ResNet50-notebook.ipynb)
 
 - Machine Learning:
-    - [Linear Regression Model from Scratch with PyTorch](https://github.com/mateuszcedro/mateuszcedro/blob/main/Machine%20Learning%20PyTorch/Linear%20Regression%20Model%20from%20Scratch%20with%20PyTorch.ipynb)
     - [Multiclass Neural Network Classification Model from Scratch with PyTorch](https://github.com/mateuszcedro/mateuszcedro/blob/main/Machine%20Learning%20PyTorch/Neural%20Network%20Multiclass%20Classification%20Model%20from%20Scratch%20with%20PyTorch.ipynb)
     - [Binary Neural Network Classification Model from Scratch with PyTorch](https://github.com/mateuszcedro/mateuszcedro/blob/main/Machine%20Learning%20PyTorch/Neural%20Network%20Binary%20Classification%20Model%20from%20Scratch%20with%20PyTorch.ipynb)
+    - [Linear Regression Model from Scratch with PyTorch](https://github.com/mateuszcedro/mateuszcedro/blob/main/Machine%20Learning%20PyTorch/Linear%20Regression%20Model%20from%20Scratch%20with%20PyTorch.ipynb)
+
+ - [Advanced Visualisation](https://github.com/mateuszcedro/mateuszcedro/blob/main/Visualisation/Advanced%20Visualisation.md)
+
+![Adv_Viz1](https://github.com/mateuszcedro/mateuszcedro/blob/main/Visualisation/Plots/s10.png)
+![Adv_Viz2](https://github.com/mateuszcedro/mateuszcedro/blob/main/Visualisation/Plots/s3.png)
 
 - [Econometrics](https://github.com/mateuszcedro/mateuszcedro/blob/main/Econometrics/Econometrics.ipynb)
 
