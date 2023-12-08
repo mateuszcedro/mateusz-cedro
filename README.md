@@ -2,7 +2,7 @@
 ## About Me
 Data scientist who delivers Machine Learning & AI solutions for data-driven projects in business and research. Effective in engaging with stakeholders and customers. Especially interested in explaining complex ML/AI models, data inference and visualisation. Passion for working with people.
 
-Currently working on XAI explanations of CNN Computer Vision Deep Learning classification model detecting COVID-19 disease on lung X-ray images. Below you can find the sample images explaining the pixel importance. Here you can find the [notebook with code](https://github.com/mateuszcedro/mateuszcedro/blob/main/PyTorch%20models/Deep%20Learning%20models/XAI-ResNet50-notebook.ipynb).
+Currently working on XAI explanations of CNN Computer Vision Deep Learning classification model detecting COVID-19 disease on lung X-ray images. Below you can find the sample images explaining the pixel importance. Here you can find the [notebook with code](https://github.com/mateuszcedro/mateuszcedro/blob/main/Deep%20Learning%20PyTorch/XAI-ResNet50-notebook.ipynb).
 
 ![covid_lungs](https://github.com/mateuszcedro/mateuszcedro/blob/main/Explainable%20AI/Grads.png)
 
@@ -21,12 +21,12 @@ Currently working on XAI explanations of CNN Computer Vision Deep Learning class
 ![Adv_Viz2](https://github.com/mateuszcedro/mateuszcedro/blob/main/Visualisation/Plots/s3.png)
 
 - Deep Learning:
-    - [Computer Vision Classification model and XAI explanations with PyTorch](https://github.com/mateuszcedro/mateuszcedro/blob/main/PyTorch%20models/Deep%20Learning%20models/XAI-ResNet50-notebook.ipynb)
+    - [Computer Vision Classification Model and XAI Explanations with PyTorch](https://github.com/mateuszcedro/mateuszcedro/blob/main/Deep%20Learning%20PyTorch/XAI-ResNet50-notebook.ipynb)
 
 - Machine Learning:
-    - [Linear Regression from Scratch with PyTorch](https://github.com/mateuszcedro/mateuszcedro/blob/main/PyTorch%20models/Machine%20Learning%20models/Linear%20Regression%20Model%20from%20Scratch%20with%20PyTorch.ipynb)
-    - [Classification](https://htmlpreview.github.io/?https://github.com/mateuszcedro/mateuszcedro/blob/main/Machine%20Learning%20%26%20Deep%20Learning/Classification.html)
-    - [Regression](https://github.com/mateuszcedro/mateuszcedro/blob/main/Machine%20Learning%20%26%20Deep%20Learning/Regression.pdf)
+    - [Linear Regression Model from Scratch with PyTorch](https://github.com/mateuszcedro/mateuszcedro/blob/main/Machine%20Learning%20PyTorch/Linear%20Regression%20Model%20from%20Scratch%20with%20PyTorch.ipynb)
+    - [Multiclass Neural Network Classification Model from Scratch with PyTorch](https://github.com/mateuszcedro/mateuszcedro/blob/main/Machine%20Learning%20PyTorch/Neural%20Network%20Multiclass%20Classification%20Model%20from%20Scratch%20with%20PyTorch.ipynb)
+    - [Binary Neural Network Classification Model from Scratch with PyTorch](https://github.com/mateuszcedro/mateuszcedro/blob/main/Machine%20Learning%20PyTorch/Neural%20Network%20Binary%20Classification%20Model%20from%20Scratch%20with%20PyTorch.ipynb)
 
 - [Econometrics](https://github.com/mateuszcedro/mateuszcedro/blob/main/Econometrics/Econometrics.ipynb)
 
