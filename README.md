@@ -8,7 +8,7 @@ Currently working on XAI explanations of CNN Computer Vision Deep Learning class
 
 
 ## My projects
-- [Building Vision Transformer (ViT) from Scratch with PyTorch](https://github.com/mateuszcedro/mateuszcedro/blob/main/Deep%20Learning%20PyTorch/Vision%20Transformer%20(ViT)%20from%20scratch%20with%20PyTorch.ipynb)
+- [Building Vision Transformer (ViT) from Scratch with PyTorch - replication of *An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale* (Dosovitskiy et al., 2020) research paper](https://github.com/mateuszcedro/mateuszcedro/blob/main/Deep%20Learning%20PyTorch/Vision%20Transformer%20(ViT)%20from%20scratch%20with%20PyTorch.ipynb)
 
 ![ViT](https://raw.githubusercontent.com/mateuszcedro/mateuszcedro/main/Deep%20Learning%20PyTorch/img/vit.png)
 
