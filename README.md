@@ -5,12 +5,11 @@ Data scientist/ML engineer who delivers Machine Learning & AI solutions for data
 Currently working on XAI explanations of CNN Computer Vision Deep Learning classification model detecting COVID-19 disease on lung X-ray images. Below you can find the sample images explaining the pixel importance. Here you can find the [research paper](https://github.com/mateuszcedro/mateuszcedro/blob/main/Explainable%20AI/Beyond%20the%20Black%20Box%20Do%20More%20Complex%20Models%20Provide%20Superior%20XAI.pdf) and [notebook with code](https://github.com/mateuszcedro/mateuszcedro/blob/main/Deep%20Learning%20PyTorch/XAI-ResNet50-notebook.ipynb).
 
 ![covid_lungs](https://github.com/mateuszcedro/mateuszcedro/blob/main/Explainable%20AI/Grads.png)
-<img src="mateuszcedro/Deep%20Learning%20PyTorch/img/vit.png" width="100" />
 
 
 ## My projects
 - [Building Vision Transformer (ViT) from Scratch with PyTorch
-![ViT](https://github.com/mateuszcedro/mateuszcedro/blob/main/Explainable%20AI/xai_4.png)
+![ViT](https://github.com/mateuszcedro/mateuszcedro/tree/main/Deep%20Learning%20PyTorch/img/vit.png)
 
 - [Explainable AI - Explanation of XGBoost & SVM models of Brain Stroke disease prediction](https://github.com/mateuszcedro/mateuszcedro/blob/main/Explainable%20AI/XAI_Shap_BrainStroke_notebook.ipynb)
 
