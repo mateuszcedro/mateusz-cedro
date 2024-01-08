@@ -9,6 +9,7 @@ Currently working on XAI explanations of CNN Computer Vision Deep Learning class
 
 ## My projects
 - [Building Vision Transformer (ViT) from Scratch with PyTorch](https://github.com/mateuszcedro/mateuszcedro/blob/main/Deep%20Learning%20PyTorch/Vision%20Transformer%20(ViT)%20from%20scratch%20with%20PyTorch.ipynb)
+
 ![ViT](https://raw.githubusercontent.com/mateuszcedro/mateuszcedro/main/Deep%20Learning%20PyTorch/img/vit.png)
 
 - [Explainable AI - Explanation of XGBoost & SVM models of Brain Stroke disease prediction](https://github.com/mateuszcedro/mateuszcedro/blob/main/Explainable%20AI/XAI_Shap_BrainStroke_notebook.ipynb)
