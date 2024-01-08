@@ -6,7 +6,7 @@ Currently working on XAI explanations of CNN Computer Vision Deep Learning class
 
 ![covid_lungs](https://github.com/mateuszcedro/mateuszcedro/blob/main/Explainable%20AI/Grads.png)
 ![vit](https://raw.githubusercontent.com/mateuszcedro/mateuszcedro/main/Deep%20Learning%20PyTorch/img/vit.png)
-<img src="[vit.png](https://raw.githubusercontent.com/mateuszcedro/mateuszcedro/main/Deep%20Learning%20PyTorch/img/vit.png)" width="800" />
+<img src="[vit.png](https://raw.githubusercontent.com/mateuszcedro/mateuszcedro/main/Deep%20Learning%20PyTorch/img/vit.png)" width="100" />
 
 
 ## My projects
