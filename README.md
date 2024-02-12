@@ -36,8 +36,6 @@ Currently working on XAI explanations of CNN Computer Vision Deep Learning class
 ![Adv_Viz1](https://github.com/mateuszcedro/mateuszcedro/blob/main/Visualisation/Plots/s10.png)
 ![Adv_Viz2](https://github.com/mateuszcedro/mateuszcedro/blob/main/Visualisation/Plots/s3.png)
 
-- [Econometrics](https://github.com/mateuszcedro/mateuszcedro/blob/main/Econometrics/Econometrics.ipynb)
-
 - Text Mining:
     - [Sentiment Analysis & Topic Modeling](https://htmlpreview.github.io/?https://github.com/mateuszcedro/mateuszcedro/blob/main/Text%20mining/Sentiment%20Analysis%20%26%20Topic%20Modeling.html)
     - [Clustering & Topic Modeling](https://htmlpreview.github.io/?https://github.com/mateuszcedro/mateuszcedro/blob/main/Text%20mining/Clustering%20%26%20Topic%20Modeling.html)
