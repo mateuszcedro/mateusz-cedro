@@ -23,6 +23,8 @@ Currently working on XAI explanations of CNN Computer Vision Deep Learning class
     - [Computer Vision Classification Model from Scratch with PyTorch](https://github.com/mateuszcedro/mateuszcedro/blob/main/Deep%20Learning%20PyTorch/Computer%20Vision%20Classification%20Model%20from%20Scratch%20with%20PyTorch.ipynb)
 
 - Machine Learning:
+    - [Time-series predictions with LSTM Model in PyTorch](https://github.com/mateuszcedro/mateuszcedro/blob/main/Machine%20Learning%20PyTorch/LSTM%20Time-Series%20Model%20in%20PyTorch.ipynb)
+
     - [Multiclass Neural Network Classification Model from Scratch with PyTorch](https://github.com/mateuszcedro/mateuszcedro/blob/main/Machine%20Learning%20PyTorch/Neural%20Network%20Multiclass%20Classification%20Model%20from%20Scratch%20with%20PyTorch.ipynb)
 
   ![multiclass1](https://github.com/mateuszcedro/mateuszcedro/blob/main/Machine%20Learning%20PyTorch/imgs/Multiclass_1.png)
