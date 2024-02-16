@@ -19,7 +19,9 @@ Currently working on XAI explanations of CNN Computer Vision Deep Learning class
 ![XAI_BrainStroke2](https://github.com/mateuszcedro/mateuszcedro/blob/main/Explainable%20AI/xai_2.png)
 
 - Generative AI:
-    - [Generative Adversarial Networks (GANs)](https://github.com/mateuszcedro/mateuszcedro/blob/main/Generative%20AI/gan_imgs/GAN_img.png)
+    - [Generative Adversarial Networks (GANs)](https://github.com/mateuszcedro/mateuszcedro/blob/main/Generative%20AI/GAN.ipynb)
+    
+    ![gan_img](https://github.com/mateuszcedro/mateuszcedro/blob/main/Generative%20AI/gan_imgs/GAN_img.png)
 
 - Deep Learning:
     - [Computer Vision Classification Model and XAI Explanations with PyTorch](https://github.com/mateuszcedro/mateuszcedro/blob/main/Deep%20Learning%20in%20PyTorch/XAI-ResNet50-notebook.ipynb)
