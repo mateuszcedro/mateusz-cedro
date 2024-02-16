@@ -25,6 +25,8 @@ Currently working on XAI explanations of CNN Computer Vision Deep Learning class
 
 ![gan_img](https://github.com/mateuszcedro/mateuszcedro/blob/main/Generative%20AI/gan_imgs/GAN_img.png)
 
+- Segment Anything Model (SAM) by Meta AI on Medical Images
+
 ### Deep Learning
 - [Computer Vision Classification Model and XAI Explanations with PyTorch](https://github.com/mateuszcedro/mateuszcedro/blob/main/Deep%20Learning%20in%20PyTorch/XAI-ResNet50-notebook.ipynb)
 - [Computer Vision Classification Model from Scratch with PyTorch](https://github.com/mateuszcedro/mateuszcedro/blob/main/Deep%20Learning%20in%20PyTorch/Computer%20Vision%20Classification%20Model%20from%20Scratch%20with%20PyTorch.ipynb)
