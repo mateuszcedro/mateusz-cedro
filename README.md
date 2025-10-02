@@ -18,10 +18,10 @@ I care about building transparent, reliable ML systems and turning model interna
 
 ## My projects
 ### Mechanistic Interpretability - Counterfactual circuits behind “Yes/No” decisions in Llama
-**Doc:** ➡️ [Key Takeaways & Write-up](https://docs.google.com/document/d/1vl4r1zME4O-xJyCbhn2_OQ3wzJUynhxm5nxplA6XGuA/edit?tab=t.0)
+**Doc:** ➡️ [Key Takeaways & Write-up](https://docs.google.com/document/d/1vl4r1zME4O-xJyCbhn2_OQ3wzJUynhxm5nxplA6XGuA/edit?usp=sharing)
 
 **What this investigates:**  
-Trade-off prompts like *“Do you accept **X** euros to wait **Y** minutes?”* on **Llama-3.2-3B-Instruct**, analyzing token-level behavior for **Yes/No**. It is a mechanistic interpretability follow-up on [Cash or Comfort? How LLMs Value Your Inconvenience](https://arxiv.org/pdf/2506.17367) (Cedro et al., 2025)
+Trade-off prompts like *“Do you accept **X** euros to wait an additional **Y** minutes?”* on **Llama-3.2-3B-Instruct**, analyzing token-level behavior for **Yes/No**. It is a mechanistic interpretability follow-up on [Cash or Comfort? How LLMs Value Your Inconvenience](https://arxiv.org/pdf/2506.17367) (Cedro et al., 2025)
 
 **Core findings (concise):**
 - A single **MLP output layer (21)** steers “No”: **mean-ablation flips** model decisions from *No → Yes*.
