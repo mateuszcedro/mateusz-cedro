@@ -1,13 +1,39 @@
 # Mateusz Cedro
 ## About Me
-Machine  Learning Researcher who delivers ML & AI solutions for data-driven projects in research and business. Especially interested and advanced in building and explaining complex ML/AI models, data inference and creative visualisation. Passion for working with others.
+I’m a second-year PhD student in **Explainable AI** at the **University of Antwerp (Belgium)**, supervised by [Prof. David Martens](https://scholar.google.com/citations?user=gbce1doAAAAJ&hl=en), 
 
-Currently working on XAI explanations of CNN Computer Vision Deep Learning classification model detecting COVID-19 disease on lung X-ray images. Below you can find the sample images explaining the pixel importance. Here you can find the [research paper](https://github.com/mateuszcedro/mateuszcedro/blob/main/Explainable%20AI/Beyond%20the%20Black%20Box%20Do%20More%20Complex%20Models%20Provide%20Superior%20XAI.pdf) and [notebook with code](https://github.com/mateuszcedro/mateuszcedro/blob/main/Deep%20Learning%20in%20PyTorch/XAI-ResNet50-notebook.ipynb).
+My current focus is on:
+- **Mechanistic Interpretability** — understanding AI model behaviour by investigating internal components (individual neurons, attention heads, layers, activations) and reverse-engineering learned computational circuits to explain how and why models produce specific outputs.
+- **AI Alignment** — aligning model objectives and behaviours with human values and safety constraints.
+- **Concept Discovery in Large AI Models** — understanding the **concepts learned by large AI downstream models**, including concepts that may be **beyond current human understanding** (see e.g. [Schut et al., 2025](https://www.pnas.org/doi/10.1073/pnas.2406675122)).
 
-![covid_lungs](https://github.com/mateuszcedro/mateuszcedro/blob/main/Explainable%20AI/Grads.png)
+I care about building transparent, reliable ML systems and turning model internals into testable, human-legible explanations.
 
+- 📄 Publications: [Google Scholar](https://scholar.google.com/citations?user=srXiChUAAAAJ&hl=en)
+- 🧑‍🏫 Supervisor: [Prof. David Martens](https://scholar.google.com/citations?user=gbce1doAAAAJ&hl=en)
+- 🧑‍🔬 Former advisor: [Prof. Przemyslaw Biecek](https://scholar.google.com/citations?hl=en&user=Af0O75cAAAAJ)
+- 📍 Antwerp, Belgium
+
+> Always happy to connect on collaborations around interpretability, alignment, and concept discovery.
 
 ## My projects
+### Mechanistic Interpretability - Counterfactual circuits behind “Yes/No” decisions in Llama
+**Doc:** ➡️ [Key Takeaways & Write-up](https://docs.google.com/document/d/1vl4r1zME4O-xJyCbhn2_OQ3wzJUynhxm5nxplA6XGuA/edit?tab=t.0)
+
+**What this investigates:**  
+Trade-off prompts like *“Do you accept **X** euros to wait **Y** minutes?”* on **Llama-3.2-3B-Instruct**, analyzing token-level behavior for **Yes/No**. It is a mechanistic interpretability follow-up on [Cash or Comfort? How LLMs Value Your Inconvenience](https://arxiv.org/pdf/2506.17367) (Cedro, et al., 2025)
+
+**Core findings (concise):**
+- A single **MLP output layer (21)** steers “No”: **mean-ablation flips** model decisions from *No → Yes*.
+- Within that layer, **neuron 8190** strongly pushes toward “No”; **zero-ablating it flips** the decision (acts as a **counterfactual neuron**).
+- **MLP layers** dominate **logit attributions** for “Yes/No” over attention heads.
+- **Interference emerges a few layers later**: probability shifts appear ~**layers 24+** after the ablation.
+- Behavior shows **systematic anomalies**: rejections at **powers of 10** (€10, €100, €1,000), occasional **greediness** (accepting €0.10 for 600 minutes), and **no freebie dilemma**.
+
+**Why it matters:**  
+Points to compact, targetable circuits for preference-like judgments; suggests concept-level control via sparse, layer-localised edits.
+
+
 ### Vision Transformer (ViT)
 - [Building Vision Transformer (ViT) from Scratch with PyTorch - replication of *An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale* (Dosovitskiy et al., 2020) research paper](https://github.com/mateuszcedro/mateuszcedro/blob/main/Deep%20Learning%20in%20PyTorch/Vision%20Transformer%20(ViT)%20from%20scratch%20with%20PyTorch.ipynb)
 
