@@ -7,7 +7,7 @@ My current focus is on:
 - **AI Alignment** — aligning model objectives and behaviours with human values and safety constraints.
 - **Concept Discovery in Large AI Models** — understanding the **concepts learned by large AI downstream models**, including concepts that may be **beyond current human understanding** (see e.g. [Schut et al., 2025](https://www.pnas.org/doi/10.1073/pnas.2406675122)).
 
-I care about building transparent, reliable ML systems and turning model internals into testable, human-legible explanations.
+I care about building transparent, reliable ML systems and turning model internals into understandable, human-legible explanations.
 
 - 📄 Publications: [Google Scholar](https://scholar.google.com/citations?user=srXiChUAAAAJ&hl=en)
 - 🧑‍🏫 Supervisor: [Prof. David Martens](https://scholar.google.com/citations?user=gbce1doAAAAJ&hl=en)
