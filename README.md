@@ -23,7 +23,7 @@ I care about building transparent, reliable ML systems and turning model interna
 **What this investigates:**  
 Trade-off prompts like *“Do you accept **X** euros to wait an additional **Y** minutes?”* on **Llama-3.2-3B-Instruct**, analyzing token-level behavior for **Yes/No**. It is a mechanistic interpretability follow-up on [Cash or Comfort? How LLMs Value Your Inconvenience](https://arxiv.org/pdf/2506.17367) (Cedro et al., 2025)
 
-**Core findings (concise):**
+**Core findings:**
 - A single **MLP output layer (21)** steers “No”: **mean-ablation flips** model decisions from *No → Yes*.
 - Within that layer, **neuron 8190** strongly pushes toward “No”; **zero-ablating it flips** the decision (acts as a **counterfactual neuron**).
 - **MLP layers** dominate **logit attributions** for “Yes/No” over attention heads.
