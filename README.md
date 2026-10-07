@@ -1,6 +1,8 @@
 # Mateusz Cedro
 ## About Me
-I’m a second-year PhD student in **Explainable AI** at the **University of Antwerp (Belgium)**, supervised by [Prof. David Martens](https://scholar.google.com/citations?user=gbce1doAAAAJ&hl=en).
+I’m a third-year PhD student in **Interpretable Machine Learning** and **Explainable AI** at the **University of Antwerp (Belgium)**, supervised by [Prof. David Martens](https://scholar.google.com/citations?user=gbce1doAAAAJ&hl=en).
+
+For up-to-date information, check [my website](https://mateuszcedro.com/).
 
 My current focus is on:
 - **Mechanistic Interpretability** — understanding AI model behaviour by investigating internal components (individual neurons, attention heads, layers, activations) and reverse-engineering learned computational circuits to explain how and why models produce specific outputs.
