@@ -2,12 +2,15 @@
 ## About Me
 I’m a third-year PhD student in **Interpretable Machine Learning** and **Explainable AI** at the **University of Antwerp (Belgium)**, supervised by [Prof. David Martens](https://scholar.google.com/citations?user=gbce1doAAAAJ&hl=en).
 
-For up-to-date information, check [my website](https://mateuszcedro.com/).
+**For up-to-date information, please check [my website](https://mateuszcedro.com/)**.
+
+
 
 My current focus is on:
-- **Mechanistic Interpretability** — understanding AI model behaviour by investigating internal components (individual neurons, attention heads, layers, activations) and reverse-engineering learned computational circuits to explain how and why models produce specific outputs.
-- **AI Alignment** — aligning model objectives and behaviours with human values and safety constraints.
-- **Concept Discovery in Large AI Models** — understanding the **concepts learned by large AI downstream models**, including concepts that may be **beyond current human understanding** (see e.g. [Schut et al., 2025](https://www.pnas.org/doi/10.1073/pnas.2406675122)).
+- **Representation Learning of Transformers**
+- **Mechanistic Interpretability** - understanding AI model behaviour by investigating internal components (individual neurons, attention heads, layers, activations) and reverse-engineering learned computational circuits to explain how and why models produce specific outputs.
+- **AI Alignment** - aligning model objectives and behaviours with human values and safety constraints.
+- **Concept Discovery in Large AI Models** - understanding the **concepts learned by large AI downstream models**, including concepts that may be **beyond current human understanding** (see e.g. [Schut et al., 2025](https://www.pnas.org/doi/10.1073/pnas.2406675122)).
 
 I care about building transparent, reliable ML systems and turning model internals into understandable, human-legible explanations.
 
